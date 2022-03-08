@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlertDialog</string>
+    <string name="desc">Volume: %1$d%%</string>
+    <string name="curVolume">Current volume: %1$d%%</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
